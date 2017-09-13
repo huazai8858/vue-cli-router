@@ -1,6 +1,6 @@
 ## vue-cli-router
 # 使用方法：
-1. git clone https://github.com/cooleye/react-template.git
+1. git clone https://github.com/huazai8858/vue-cli-router.git
 
 2. cd vue 进入项目目录
 
